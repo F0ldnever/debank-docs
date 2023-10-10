@@ -1,0 +1,25 @@
+- [x]  Bifrost: https://debank.com/official-badge/35
+- [ ]  Volta Club: https://debank.com/official-badge/34
+- [ ]  Sifu Vision: https://debank.com/official-badge/33
+- [ ]  UwU Lend: https://debank.com/official-badge/32
+- [ ]  OkuTrade: https://debank.com/official-badge/31
+- [ ]  Bumper: https://debank.com/official-badge/30
+- [ ]  Alpha Drops: https://debank.com/official-badge/29
+- [ ]  Beeft: https://debank.com/official-badge/28
+- [ ]  Reunit: https://debank.com/official-badge/27
+- [ ]  BetFury: https://debank.com/official-badge/26
+- [ ]  CoChilli: https://debank.com/official-badge/25
+- [ ]  SiloFinance: https://debank.com/official-badge/24
+- [ ]  Dewhales: https://debank.com/official-badge/23
+- [ ]  Eesee: https://debank.com/official-badge/22
+- [ ]  BCSPORTS: https://debank.com/official-badge/21
+- [ ]  Mantle: https://debank.com/official-badge/20
+- [ ]  BetSwirl: https://debank.com/official-badge/19
+- [ ]  defarm: https://debank.com/official-badge/18
+- [ ]  Joystream: https://debank.com/official-badge/17
+- [x]  Nomis: https://debank.com/official-badge/16
+- [ ]  Trader-Joe: https://debank.com/official-badge/15
+- [ ]  Bolide Finance: https://debank.com/official-badge/14
+- [ ]  Stader Liquid Stakin: https://debank.com/official-badge/13
+- [ ]  Gearbox Protocol: https://debank.com/official-badge/12
+- [x]  MetaverseSG: https://debank.com/official-badge/11

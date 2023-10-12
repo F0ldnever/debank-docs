@@ -1,3 +1,5 @@
+- [ ]  zkSwap Finance: https://debank.com/official-badge/37
+- [ ]  Kyber Network: https://debank.com/official-badge/36
 - [x]  Bifrost: https://debank.com/official-badge/35
 - [ ]  Volta Club: https://debank.com/official-badge/34
 - [ ]  Sifu Vision: https://debank.com/official-badge/33

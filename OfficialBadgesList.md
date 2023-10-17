@@ -1,3 +1,4 @@
+- [ ]  TYMIO: https://debank.com/official-badge/39
 - [ ]  Fox Hustle: https://debank.com/official-badge/38
 - [ ]  zkSwap Finance: https://debank.com/official-badge/37
 - [ ]  Kyber Network: https://debank.com/official-badge/36

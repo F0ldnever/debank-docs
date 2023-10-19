@@ -1,3 +1,8 @@
+- [ ]  LIFI: https://debank.com/official-badge/44
+- [ ]  Notum: https://debank.com/official-badge/43
+- [x]  Venus Protocol: https://debank.com/official-badge/42
+- [ ]  LeechProtocol: https://debank.com/official-badge/41
+- [ ]  Liquid Mining: https://debank.com/official-badge/40
 - [ ]  TYMIO: https://debank.com/official-badge/39
 - [ ]  Fox Hustle: https://debank.com/official-badge/38
 - [ ]  zkSwap Finance: https://debank.com/official-badge/37

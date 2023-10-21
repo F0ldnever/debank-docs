@@ -1,3 +1,4 @@
+- [ ]  Yield Yak: https://debank.com/official-badge/45
 - [ ]  LIFI: https://debank.com/official-badge/44
 - [ ]  Notum: https://debank.com/official-badge/43
 - [x]  Venus Protocol: https://debank.com/official-badge/42

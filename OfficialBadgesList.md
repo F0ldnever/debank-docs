@@ -1,3 +1,6 @@
+- [ ]  ZeroLiquid: https://debank.com/official-badge/49
+- [ ]  ZNSConnect: https://debank.com/official-badge/48
+- [ ]  Singullaritynet: https://debank.com/official-badge/47
 - [ ]  VirtuSwap: https://debank.com/official-badge/46
 - [ ]  Yield Yak: https://debank.com/official-badge/45
 - [ ]  LIFI: https://debank.com/official-badge/44

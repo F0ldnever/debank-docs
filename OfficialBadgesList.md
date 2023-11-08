@@ -1,3 +1,5 @@
+- [ ]  BungeeExchange: https://debank.com/official-badge/51
+- [ ]  Robots Farm: https://debank.com/official-badge/50
 - [ ]  ZeroLiquid: https://debank.com/official-badge/49
 - [ ]  ZNSConnect: https://debank.com/official-badge/48
 - [ ]  Singullaritynet: https://debank.com/official-badge/47

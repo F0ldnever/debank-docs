@@ -1,3 +1,5 @@
+- [ ]  Struct Finance: https://debank.com/official-badge/53
+- [ ]  Aark Digital: https://debank.com/official-badge/52
 - [ ]  BungeeExchange: https://debank.com/official-badge/51
 - [ ]  Robots Farm: https://debank.com/official-badge/50
 - [ ]  ZeroLiquid: https://debank.com/official-badge/49
@@ -7,14 +9,14 @@
 - [ ]  Yield Yak: https://debank.com/official-badge/45
 - [ ]  LIFI: https://debank.com/official-badge/44
 - [ ]  Notum: https://debank.com/official-badge/43
-- [x]  Venus Protocol: https://debank.com/official-badge/42
+- [ ]  Venus Protocol: https://debank.com/official-badge/42
 - [ ]  LeechProtocol: https://debank.com/official-badge/41
 - [ ]  Liquid Mining: https://debank.com/official-badge/40
 - [ ]  TYMIO: https://debank.com/official-badge/39
 - [ ]  Fox Hustle: https://debank.com/official-badge/38
 - [ ]  zkSwap Finance: https://debank.com/official-badge/37
 - [ ]  Kyber Network: https://debank.com/official-badge/36
-- [x]  Bifrost: https://debank.com/official-badge/35
+- [ ]  Bifrost: https://debank.com/official-badge/35
 - [ ]  Volta Club: https://debank.com/official-badge/34
 - [ ]  Sifu Vision: https://debank.com/official-badge/33
 - [ ]  UwU Lend: https://debank.com/official-badge/32
@@ -33,7 +35,7 @@
 - [ ]  BetSwirl: https://debank.com/official-badge/19
 - [ ]  defarm: https://debank.com/official-badge/18
 - [ ]  Joystream: https://debank.com/official-badge/17
-- [x]  Nomis: https://debank.com/official-badge/16
+- [ ]  Nomis: https://debank.com/official-badge/16
 - [ ]  Trader-Joe: https://debank.com/official-badge/15
 - [ ]  Bolide Finance: https://debank.com/official-badge/14
 - [ ]  Stader Liquid Stakin: https://debank.com/official-badge/13

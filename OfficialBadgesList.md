@@ -1,3 +1,11 @@
+- [ ]  Holdstation: https://debank.com/official-badge/61
+- [ ]  MetaCamelRacing: https://debank.com/official-badge/60
+- [ ]  Ergoplatform: https://debank.com/official-badge/59
+- [ ]  Timeswap: https://debank.com/official-badge/58
+- [ ]  Equilibria: https://debank.com/official-badge/57
+- [ ]  Won Three Times: https://debank.com/official-badge/56
+- [ ]  Won Twice: https://debank.com/official-badge/55
+- [ ]  Won Once: https://debank.com/official-badge/54
 - [ ]  Struct Finance: https://debank.com/official-badge/53
 - [ ]  Aark Digital: https://debank.com/official-badge/52
 - [ ]  BungeeExchange: https://debank.com/official-badge/51

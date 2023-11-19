@@ -1,3 +1,6 @@
+- [ ]  Talent Protocol: https://debank.com/official-badge/67
+- [ ]  Mendi Finance: https://debank.com/official-badge/66
+- [ ]  UnboxBlock: https://debank.com/official-badge/65
 - [ ]  Holdstation: https://debank.com/official-badge/61
 - [ ]  MetaCamelRacing: https://debank.com/official-badge/60
 - [ ]  Ergoplatform: https://debank.com/official-badge/59

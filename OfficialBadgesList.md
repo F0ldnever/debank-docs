@@ -1,3 +1,4 @@
+- [ ]  Alpha Insiders: https://debank.com/official-badge/68
 - [ ]  Talent Protocol: https://debank.com/official-badge/67
 - [ ]  Mendi Finance: https://debank.com/official-badge/66
 - [ ]  UnboxBlock: https://debank.com/official-badge/65

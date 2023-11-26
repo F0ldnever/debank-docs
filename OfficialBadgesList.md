@@ -1,3 +1,5 @@
+- [ ]  Lendle: https://debank.com/official-badge/70
+- [ ]  Split: https://debank.com/official-badge/69
 - [ ]  Alpha Insiders: https://debank.com/official-badge/68
 - [ ]  Talent Protocol: https://debank.com/official-badge/67
 - [ ]  Mendi Finance: https://debank.com/official-badge/66

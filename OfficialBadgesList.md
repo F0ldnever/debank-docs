@@ -1,3 +1,6 @@
+- [ ]  Vertex Protocol: https://debank.com/official-badge/73
+- [ ]  Bao Finance: https://debank.com/official-badge/72
+- [ ]  Dex Finance: https://debank.com/official-badge/71
 - [ ]  Lendle: https://debank.com/official-badge/70
 - [ ]  Split: https://debank.com/official-badge/69
 - [ ]  Alpha Insiders: https://debank.com/official-badge/68

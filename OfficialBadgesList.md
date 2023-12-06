@@ -1,3 +1,6 @@
+- [ ]  CryptoDiffer: https://debank.com/official-badge/76
+- [ ]  OATH: https://debank.com/official-badge/75
+- [ ]  CoinsGEM_com: https://debank.com/official-badge/74
 - [ ]  Vertex Protocol: https://debank.com/official-badge/73
 - [ ]  Bao Finance: https://debank.com/official-badge/72
 - [ ]  Dex Finance: https://debank.com/official-badge/71

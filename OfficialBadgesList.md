@@ -1,3 +1,6 @@
+- [ ]  LodestarFinance: https://debank.com/official-badge/79
+- [ ]  Biswap: https://debank.com/official-badge/78
+- [ ]  ImpossibleFi: https://debank.com/official-badge/77
 - [ ]  CryptoDiffer: https://debank.com/official-badge/76
 - [ ]  OATH: https://debank.com/official-badge/75
 - [ ]  CoinsGEM_com: https://debank.com/official-badge/74

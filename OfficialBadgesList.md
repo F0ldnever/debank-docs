@@ -1,3 +1,6 @@
+- [ ]  TigrisTrade: https://debank.com/official-badge/82
+- [ ]  Penpie: https://debank.com/official-badge/81
+- [ ]  Magpie XYZ: https://debank.com/official-badge/80
 - [ ]  LodestarFinance: https://debank.com/official-badge/79
 - [ ]  Biswap: https://debank.com/official-badge/78
 - [ ]  ImpossibleFi: https://debank.com/official-badge/77

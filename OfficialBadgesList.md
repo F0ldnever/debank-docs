@@ -1,3 +1,8 @@
+- [ ]  Matcha: https://debank.com/official-badge/87
+- [ ]  Qoda Finance: https://debank.com/official-badge/86
+- [ ]  LandX Finance: https://debank.com/official-badge/85
+- [ ]  WOWMAX: https://debank.com/official-badge/84
+- [ ]  SingularityDAO: https://debank.com/official-badge/83
 - [ ]  TigrisTrade: https://debank.com/official-badge/82
 - [ ]  Penpie: https://debank.com/official-badge/81
 - [ ]  Magpie XYZ: https://debank.com/official-badge/80

@@ -1,3 +1,5 @@
+- [ ]  Swell: https://debank.com/official-badge/89
+- [ ]  Ether Fi: https://debank.com/official-badge/88
 - [ ]  Matcha: https://debank.com/official-badge/87
 - [ ]  Qoda Finance: https://debank.com/official-badge/86
 - [ ]  LandX Finance: https://debank.com/official-badge/85

@@ -1,3 +1,12 @@
+- [ ]  Notional: https://debank.com/official-badge/98
+- [ ]  Sociogram: https://debank.com/official-badge/97
+- [ ]  InsightX: https://debank.com/official-badge/96
+- [ ]  StarkDeFi: https://debank.com/official-badge/95
+- [ ]  l2telegraph: https://debank.com/official-badge/94
+- [ ]  Hacken: https://debank.com/official-badge/93
+- [ ]  Eigenpie: https://debank.com/official-badge/92
+- [ ]  Kelp DAO: https://debank.com/official-badge/91
+- [ ]  THE DONS: https://debank.com/official-badge/90
 - [ ]  Swell: https://debank.com/official-badge/89
 - [ ]  Ether Fi: https://debank.com/official-badge/88
 - [ ]  Matcha: https://debank.com/official-badge/87

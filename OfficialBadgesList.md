@@ -1,3 +1,16 @@
+- [ ]  KTX Finance: https://debank.com/official-badge/111
+- [ ]  Spool: https://debank.com/official-badge/110
+- [ ]  Alpaca Finance: https://debank.com/official-badge/109
+- [ ]  Jumper Exchange: https://debank.com/official-badge/108
+- [ ]  GMX_IO: https://debank.com/official-badge/107
+- [ ]  Merchant Moe: https://debank.com/official-badge/106
+- [ ]  Diva Staking: https://debank.com/official-badge/105
+- [ ]  Paladin: https://debank.com/official-badge/104
+- [ ]  Perp Protocol: https://debank.com/official-badge/103
+- [ ]  BoomSwap: https://debank.com/official-badge/102
+- [ ]  Superform: https://debank.com/official-badge/101
+- [ ]  Vela Exchange: https://debank.com/official-badge/100
+- [ ]  DropsTab: https://debank.com/official-badge/99
 - [ ]  Notional: https://debank.com/official-badge/98
 - [ ]  Sociogram: https://debank.com/official-badge/97
 - [ ]  InsightX: https://debank.com/official-badge/96

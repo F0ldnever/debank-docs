@@ -1,3 +1,4 @@
+- [ ]  Old Friend of FireBot: https://debank.com/official-badge/112
 - [ ]  KTX Finance: https://debank.com/official-badge/111
 - [ ]  Spool: https://debank.com/official-badge/110
 - [ ]  Alpaca Finance: https://debank.com/official-badge/109
